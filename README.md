@@ -1,5 +1,7 @@
 # cfchat
 
+DEPRECATED - This Repo is pending archive. Do not use.
+
 Cfchat - the Ruby gem for the CF Chat
 
 This is the API documentation for CF Chat server.

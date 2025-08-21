@@ -1,4 +1,4 @@
-# cfchat
+# cfchat - Deprecated
 
 > [!CAUTION]
 > DEPRECATED - This Repo is pending archive. Do not use.
